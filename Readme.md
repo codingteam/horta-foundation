@@ -1,5 +1,13 @@
-horta-foundation [![Status Ventis][status-ventis]][andivionian-status-classifier]
+horta-foundation [![Status Zero][status-zero]][andivionian-status-classifier]
 ================
+
+⚠ Notice ⚠
+----------
+
+This repository has been deprecated. The development of [horta-hell][] packaging
+is now performed at the [horta-hell][] repository itself.
+
+_Original description_:
 
 horta-foundation is a project for providing the default [horta-hell][]
 environment ready for production.
@@ -68,11 +76,11 @@ The recommended way of upgrading is to [rebuild and recreate the whole
 container][so-docker-upgrade]. Your data is stored on an external data volume,
 so it will be fully preserved.
 
+[andivionian-status-classifier]: https://github.com/ForNeVeR/andivionian-status-classifier#status-zero-
 [docker]: https://www.docker.com/
 [docker-for-windows]: https://beta.docker.com/docs/windows/
 [horta-hell]: https://github.com/codingteam/horta-hell
 [horta-web]: https://github.com/codingteam/horta-web
 [so-docker-upgrade]: http://stackoverflow.com/questions/26734402
-[andivionian-status-classifier]: https://github.com/ForNeVeR/andivionian-status-classifier#status-ventis-
 
-[status-ventis]: https://img.shields.io/badge/status-ventis-yellow.svg
+[status-zero]: https://img.shields.io/badge/status-zero-lightgrey.svg
